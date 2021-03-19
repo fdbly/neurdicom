@@ -1,5 +1,5 @@
 Django==2.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 jsonfield==2.0.2
 numpy==1.17.3
 google-pasta==0.1.6
