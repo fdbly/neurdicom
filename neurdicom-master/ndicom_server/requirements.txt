@@ -1,7 +1,7 @@
 Django==2.2
 djangorestframework==3.8.2
 jsonfield==2.0.2
-numpy==1.17.3
+numpy==1.22.0
 google-pasta==0.1.6
 opencv-python==3.4.8.29
 Pillow==6.2.0
